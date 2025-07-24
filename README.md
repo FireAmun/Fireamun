@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Graduated in Software Engineering from Universiti Teknologi Malaysia (UTM)
+- 🎓 Graduated with BSc in Software Engineering from Universiti Teknologi Malaysia (UTM)
 - 🏢 Based in Saudi Arabia 🇸🇦 | Originally from Egypt 🇪🇬
 - 🚀 Building real-time apps, chatbots, drone systems, and e-commerce platforms
 - 🌟 Focused on Laravel, Flutter, MERN, DevOps, and AI/ML
@@ -21,10 +21,62 @@
 
 ---
 
+## 🎓 Education
+- Bachelor of Software Engineering, Universiti Teknologi Malaysia, Johor Bahru (Oct 2020 - Sep 2025)
+- High School Education, Al Falah School, Jeddah, Saudi Arabia (May 2008 - Apr 2020)
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥈 Runner-up, Best Prototype - e-Symposium Iskandar Puteri Low Carbon Monitoring and Management System
+- 🎓 Certificates:
+  - CGPA Appreciations
+  - IssEgypt Appreciation for Academic Committee Work
+  - AWS Academy Cloud Foundations
+  - Google Digital Marketing Course
+  - IELTS
+  - General Aptitude Test (GAT)
+
+---
+
+## 💼 Projects
+- 📱 Mobile Application: Hotel reservation system
+- 🌍 Website Design: Navigation website for Johor Bahru
+- 🔧 Resume Website: Personal portfolio and project showcase
+- 📝 Project Management Website:
+  - Built with Laravel & Vue.js
+  - Developed SRS, SDD, and STD documentation
+- 🛎️ Multivendor E-commerce Platform:
+  - Final Year Project
+  - Integrated with AI chatbot
+
+---
+
+## 🌐 Languages
+- English (Fluent)
+- Arabic (Native)
+- Malay (Intermediate)
+
+---
+
+## 🤝 Extracurricular Activities
+- Academic Committee Member, IssEgypt:
+  - Organized and conducted academic events
+  - Collaborated with peers to improve academic life
+
+---
+
+## 🔧 Extra Skills
+- Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, BI)
+- Basic video editing skills using Clipchamp
+- Strong writing, public speaking & presentation skills
+
+---
+
 ## 🔧 Languages and Tools
 
 ### 👨‍💻 Programming Languages
-C, C++, C#, Go, Java, JavaScript, TypeScript, PHP, Python, Swift, Rust
+C, C++, C#, Go, Java, JavaScript, TypeScript, PHP, Python, Swift, Rust, SQL, R, Flutter, HTML, CSS
 
 ### 🌐 Frontend Development
 Vue.js, React, Angular, AngularJS, HTML5, CSS3, Bootstrap, Tailwind CSS
@@ -57,10 +109,10 @@ Firebase, Heroku
 Laravel, Django, .NET
 
 ### 🔢 Testing
-Cypress, Selenium, Katalon Studio
+Cypress, Selenium, Katalon Studio, Testlink
 
 ### 📄 Tools & IDEs
-Git, Linux, Arduino, MATLAB, Blender, Photoshop, Figma, Flutterflow, PyCharm, VS Code, Android Studio, CLIP Studio, Filmora, draw.io, Enterprise Architecture Tools
+Git, GitHub, VS Code, Postman, Linux, Android Studio, PyCharm, Blender, Photoshop, Figma, Flutterflow, draw.io, Clipchamp, Filmora, CLIP Studio, Enterprise Architecture Tools, MATLAB
 
 ---
 
