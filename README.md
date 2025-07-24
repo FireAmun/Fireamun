@@ -73,10 +73,46 @@
 
 ---
 
-## 🛠️ Skills Overview
-**Programming Languages**: Flutter, HTML, CSS, JavaScript, PHP Laravel, C++, Java, SQL, Python, R  
-**Tools & Technologies**: VS Code, MySQL, Firebase, Android Studio, GitHub, Draw.io, MATLAB, Testlink  
-**Soft Skills**: Problem-solving, teamwork, leadership, communication, multitasking, public speaking
+## 🔧 Languages and Tools
+
+### 👨‍💻 Programming Languages
+C, C++, C#, Go, Java, JavaScript, TypeScript, PHP, Python, Swift, Rust, SQL, R, Flutter, HTML, CSS
+
+### 🌐 Frontend Development
+Vue.js, React, Angular, AngularJS, HTML5, CSS3, Bootstrap, Tailwind CSS
+
+### 🔙 Backend Development
+Laravel, Node.js, Express.js, Spring Boot, NestJS, GraphQL
+
+### 📱 Mobile App Development
+Android, Flutter, Dart, Kotlin, React Native
+
+### 📊 Databases
+MongoDB, MySQL, PostgreSQL, Oracle, SQL Server, SQLite, Cassandra, IBM Db2
+
+### 🧐 AI / Machine Learning
+TensorFlow, PyTorch
+
+### 🔧 Static Site Generators
+Next.js
+
+### 📊 Data Visualization
+D3.js, Chart.js, CanvasJS
+
+### ☁️ DevOps & Cloud
+AWS, Docker, Jenkins, Azure, Google Cloud
+
+### 🚧 Backend as a Service (BaaS)
+Firebase, Heroku
+
+### 📜 Frameworks
+Laravel, Django, .NET
+
+### 🔢 Testing
+Cypress, Selenium, Katalon Studio, Testlink
+
+### 📄 Tools & IDEs
+Git, GitHub, VS Code, Postman, Linux, Android Studio, PyCharm, Blender, Photoshop, Figma, Flutterflow, draw.io, Clipchamp, Filmora, CLIP Studio, Enterprise Architecture Tools, MATLAB
 
 ---
 
