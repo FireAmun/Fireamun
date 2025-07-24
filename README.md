@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Graduated with BSc in Software Engineering from Universiti Teknologi Malaysia (UTM)
+- 🎓 Graduated in Software Engineering from Universiti Teknologi Malaysia (UTM)
 - 🏢 Based in Saudi Arabia 🇸🇦 | Originally from Egypt 🇪🇬
 - 🚀 Building real-time apps, chatbots, drone systems, and e-commerce platforms
 - 🌟 Focused on Laravel, Flutter, MERN, DevOps, and AI/ML
