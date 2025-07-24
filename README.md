@@ -21,63 +21,74 @@
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Languages and Tools
 
-#### Programming Languages
-C • C++ • C# • Go • Java • JavaScript • TypeScript • PHP • Python • Swift • Rust
+### 👨‍💻 Programming Languages
+C, C++, C#, Go, Java, JavaScript, TypeScript, PHP, Python, Swift, Rust
 
-#### Frontend Development
-Vue.js • React • Angular • AngularJS • HTML5 • CSS3 • Bootstrap • Tailwind CSS
+### 🌐 Frontend Development
+Vue.js, React, Angular, AngularJS, HTML5, CSS3, Bootstrap, Tailwind CSS
 
-#### Backend Development
-Node.js • Express.js • Spring Boot • NestJS • GraphQL
+### 🔙 Backend Development
+Laravel, Node.js, Express.js, Spring Boot, NestJS, GraphQL
 
-#### Mobile Development
-Android • Flutter • Dart • Kotlin • React Native
+### 📱 Mobile App Development
+Android, Flutter, Dart, Kotlin, React Native
 
-#### Databases
-MongoDB • MySQL • PostgreSQL • Oracle • SQL Server • SQLite • Cassandra • IBM Db2
+### 📊 Databases
+MongoDB, MySQL, PostgreSQL, Oracle, SQL Server, SQLite, Cassandra, IBM Db2
 
-#### AI / Machine Learning
-TensorFlow • PyTorch
+### 🧐 AI / Machine Learning
+TensorFlow, PyTorch
 
-#### Static Site Generators
+### 🔧 Static Site Generators
 Next.js
 
-#### Data Visualization
-D3.js • Chart.js • CanvasJS
+### 📊 Data Visualization
+D3.js, Chart.js, CanvasJS
 
-#### DevOps & Cloud
-AWS • Docker • Jenkins • Azure • Google Cloud
+### ☁️ DevOps & Cloud
+AWS, Docker, Jenkins, Azure, Google Cloud
 
-#### Backend as a Service (BaaS)
-Firebase • Heroku
+### 🚧 Backend as a Service (BaaS)
+Firebase, Heroku
 
-#### Frameworks
-Laravel • Django • .NET
+### 📜 Frameworks
+Laravel, Django, .NET
 
-#### Testing
-Cypress • Selenium • Katalon Studio
+### 🔢 Testing
+Cypress, Selenium, Katalon Studio
 
-#### Tools & IDEs
-Git • Linux • Arduino • MATLAB • Blender • Photoshop • Figma • Flutterflow • PyCharm • VS Code • Android Studio • CLIP Studio • Filmora • draw.io • Enterprise Architecture Tools
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FireAmun&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireAmun&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireAmun&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📄 Tools & IDEs
+Git, Linux, Arduino, MATLAB, Blender, Photoshop, Figma, Flutterflow, PyCharm, VS Code, Android Studio, CLIP Studio, Filmora, draw.io, Enterprise Architecture Tools
 
 ---
 
-> 💡 "The best way to predict the future is to build it." — Let’s connect and create something amazing!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FireAmun&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireAmun&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireAmun&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📢 Connect with Me
+
+<p align="left">
+  <a href="mailto:amarelshaer45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amarhassanelshaer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/FireAmun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/amar.elshaer.980313/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+> 💡 "The best way to predict the future is to create it." — Let’s build something awesome!
